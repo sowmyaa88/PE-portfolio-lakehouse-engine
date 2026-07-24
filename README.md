@@ -40,12 +40,6 @@ This project follows the **Medallion Architecture**:
 
 ---
 
-## Prerequisites
-- Basic SQL, Python and some Pyspark knowledge  
-- No prior Databricks experience required  
-
----
-
 
 ## 🛡️ License
 
